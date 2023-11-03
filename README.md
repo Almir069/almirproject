@@ -7,7 +7,7 @@ code: pip install -r requirements.txt
 code:virtualenv env
 3. Activate the virtual environment :
 code: env\scripts\activate
-pip install django
+code: pip install django
 6. Run the App
 code: python manage.py runserver
 
